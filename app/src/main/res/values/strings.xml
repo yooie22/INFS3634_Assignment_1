@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">INFS3634 Assignment 1</string>
+    <string name="too_high" />
+    <string name="too_low" />
+    <string name="start_msg" />
+</resources>
